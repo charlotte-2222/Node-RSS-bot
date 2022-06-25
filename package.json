@@ -1,0 +1,16 @@
+{
+  "name": "rss_blog_bot",
+  "version": "1.0.0",
+  "description": "Rss Blog Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Charlotte",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "rss-parser": "^3.12.0"
+  }
+}
